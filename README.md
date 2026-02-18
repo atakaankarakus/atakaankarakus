@@ -2,13 +2,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakaankarakus" alt="atakaankarakus" /></a> </p>
 
-- 🔭 I'm trying to learn **.NET Core**
+- I'm trying to learn **.NET Core**
 
-- 🌱 I’m currently learning **Framework, React**
+- I’m currently learning **Framework, React**
 
-- 👯 I’m looking to collaborate on **Java**
-
-- 🤝 I’m looking for help with **Big Data**
+- I’m looking to collaborate on **Java**
 
 - 📫 How to reach me **atakaankuskara@gmail.com**
 
@@ -26,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakaankarakus&show_icons=true&locale=en" alt="atakaankarakus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atakaankarakus&" alt="atakaankarakus" /></p>
+
