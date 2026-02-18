@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atakaankarakus&show_icons=true&locale=en&layout=compact" alt="atakaankarakus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakaankarakus&show_icons=true&locale=en" alt="atakaankarakus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atakaankarakus&" alt="atakaankarakus" /></p>
