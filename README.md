@@ -1,6 +1,5 @@
+<h1 align="center">Hi, I am Ata Kaan Karakuş</h1>
 <h3 align="center">Student Developer at Izmir University of Economics</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakaankarakus" alt="atakaankarakus" /></a> </p>
 
 - I'm trying to learn **.NET Core**
 
@@ -24,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakaankarakus&show_icons=true&locale=en" alt="atakaankarakus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atakaankarakus&" alt="atakaankarakus" /></p>
-
